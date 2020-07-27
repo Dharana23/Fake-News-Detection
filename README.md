@@ -1,3 +1,2 @@
 # Fake-News-Detection
-Detecting Fake news using different techniques<br/>
-4011 data points
+This repository is created for the pupose of research work that I have been doing for the research paper.
